@@ -136,8 +136,3 @@ Dataset source: [Stanford - CS231n ZIP](http://cs231n.stanford.edu/tiny-imagenet
 
 ---
 
-## Conclusion
-
-Feel free to explore the projects and adapt the code for your own datasets. Contributions and suggestions are welcome!
-
-Next Repository will be RNN-s!:)
